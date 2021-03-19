@@ -33,7 +33,7 @@ scipy==1.1.0
 simplejson==3.15.0
 six==1.11.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.4.0
 termcolor==1.1.0
 Theano==1.0.2
 tinycss==0.3
